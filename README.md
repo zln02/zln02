@@ -1,45 +1,51 @@
-<h1 align="center">Jinyoung Park</h1>
-<p align="center">Backend • Systems • Data</p>
+<h1 align="center" style="color:#8CCBFF;">Jinyoung Park</h1>
+<p align="center" style="color:#4DA6FF;">Backend Engineering · Database Systems · Cloud Foundations</p>
 
 ---
 
-## Profile
-Computer Engineering student focusing on backend, databases, and cloud-based systems.  
-I value clarity, structure, and reliability in everything I build.  
-Currently developing full-stack JVM-based applications and strengthening SQL and architecture fundamentals.
+## <span style="color:#4DA6FF;">Overview</span>
+Backend-oriented developer focusing on system reliability, data integrity,  
+and scalable architecture. I build structured server applications and develop  
+expertise in SQL, cloud services, and JVM-based backend design.
 
 ---
 
-## Core Expertise
-- **Backend:** Java (JSP/Servlet), MVC, REST  
-- **Database:** Oracle, MySQL, ERD design, optimization basics  
-- **Cloud:** AWS fundamentals (SAA track)  
-- **Web:** HTML/CSS/JS, interactive UI, clean component design  
-- **Tools:** Git, VS Code, IntelliJ, DBeaver, Postman  
+## <span style="color:#4DA6FF;">Technical Areas</span>
+- **Backend Engineering:** Java (JSP/Servlet), MVC patterns, REST API  
+- **Database Systems:** Oracle, MySQL, ERD modeling, normalization, query optimization  
+- **Cloud Foundations:** AWS SAA track, IAM, compute & storage fundamentals  
+- **Web Layer:** HTML, CSS, JavaScript, interaction-driven prototypes  
+- **Tooling:** Git, VS Code, IntelliJ, Postman, DBeaver, Workbench
 
 ---
 
-## Selected Work
-- **Member Management System (JSP + Oracle)**  
-  End-to-end system: ERD → DAO/DTO 구조 → 인증/로그인 → CRUD module 구축
+## <span style="color:#4DA6FF;">Work Highlights</span>
+- **Member Management System (JSP · Oracle)**  
+  - Schema design → JDBC integration → authentication/session modules  
+  - Modular DAO/DTO structure and stable transaction flow
+
+- **Data-Driven Backend Features**  
+  - Subqueries, CTEs (WITH), window functions, index-aware query logic
 
 - **Interactive Web Prototype**  
-  GSAP 기반 스크롤 애니메이션, 모션 중심 UI/UX 실험
-
-- **SQL-Driven Applications**  
-  Subquery, WITH, 함수/윈도우 연산 등을 활용한 데이터 처리 로직 구현
+  - GSAP-based scroll interactions, modular UI motion components
 
 ---
 
-## Current Focus
+## <span style="color:#4DA6FF;">Current Focus</span>
 - SQLD (2025)  
-- AWS SAA  
-- System design fundamentals  
-- Clean backend architecture
+- AWS Solutions Architect Associate  
+- Backend architectural patterns  
+- High-integrity database schema design
 
 ---
 
-## Contact
-- Email: ynog9853@naver.com  
-- GitHub: https://github.com/zln02
+## <span style="color:#4DA6FF;">Contact</span>
+**Email**: <span style="color:#8CCBFF;">ynog9853@naver.com</span>  
+**GitHub**: <span style="color:#8CCBFF;">https://github.com/zln02</span>
 
+---
+
+<p align="center" style="color:#4DA6FF; font-size:14px;">
+  Designed with the color palette of my personal logo.
+</p>
