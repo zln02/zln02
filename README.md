@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#55C9FF;">Jinyoung Park</h1>
+<h1 align="center" style="color:#55C9FF;">ToT</h1>
 <p align="center" style="color:#6E7BFF;">Backend Engineering · Database Systems · Cloud Architecture</p>
 
 ---
