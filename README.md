@@ -6,6 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/-ynog9853@naver.com-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ynog9853@naver.com)
 [![GitHub](https://img.shields.io/badge/-zln02-181717?style=flat-square&logo=github)](https://github.com/zln02)
+[![Notion](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://band-okapi-504.notion.site/JINYOUNG-s-Portfolio-1a6921da60a880e88e07ea781f45e498)
 
 </div>
 
