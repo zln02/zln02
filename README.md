@@ -6,10 +6,11 @@
 
 `Python` `FastAPI` `React` `Java` `MySQL` `AWS` `GCP`
 
-[Email](mailto:ynog9853@naver.com) · [GitHub](https://github.com/zln02)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ynog9853@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zln02)
+[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](너의_노션_링크)
 
 </div>
-
 ---
 
 ### Now Building
