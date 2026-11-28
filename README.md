@@ -7,7 +7,7 @@
 AI로 **실제 사람들이 쓰는 서비스**를 만들고, 직접 배포해서 운영합니다.<br>
 결과 숫자가 좋게 나오면 **그 숫자가 진짜인지 먼저 확인**하고, 확인되지 않은 건 쓰지 않습니다.
 
-AI · 백엔드 개발자 (신입) · 광주 · 동신대학교 컴퓨터공학과
+AI · 백엔드 개발자 (신입) 
 
 <a href="https://zln02.github.io"><img src="https://img.shields.io/badge/포트폴리오_보기-zln02.github.io-ff4f7b?style=for-the-badge" alt="Portfolio"></a>
 <a href="mailto:wlsdud5035@gmail.com"><img src="https://img.shields.io/badge/메일-wlsdud5035@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
